@@ -1,21 +1,23 @@
 # Skin list
 
-## eufi
+### eufi
 Base skin<br>
-### [directory](skins/eufi)
-### [osk file](skins/eufi.osk)
+#### [directory](skins/eufi)
+#### [osk file](skins/eufi.osk)
 <img src="skins/eufi.png" width="640" height="360"><br>
 <br>
-## eufi farge
+---
+### eufi farge
 Skin i currently use the most<br>
-### [directory](skins/eufi%20farge)
-### [osk file](skins/eufi%20farge.osk)
+#### [directory](skins/eufi%20farge)
+#### [osk file](skins/eufi%20farge.osk)
 <img src="skins/eufi%20farge.png" width="640" height="360"><br>
 <br>
-## eufi fokus
+---
+### eufi fokus
 Simple DT skin<br>
-### [directory](skins/eufi%20fokus)
-### [osk file](skins/eufi%20fokus.osk)
+#### [directory](skins/eufi%20fokus)
+#### [osk file](skins/eufi%20fokus.osk)
 <img src="skins/eufi%20fokus.png" width="640" height="360"><br>
 
 <br>Might put some old skins i made here as well eventually
