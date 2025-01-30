@@ -2,8 +2,8 @@
 ### [Skin list](skins.md)
 ### [Credits](credits.md)
 ### [Source files documentation](source.md)
-
-Repository for my personal osu skins.<br>
+## Description
+Repository for my personal self made osu! skins.<br>
 They **only include @2x elements** because SD elements are bloat.<br>
 [Elements](source) by me are made in GIMP.
 [Extras and such](extra-elements) are here<br>
