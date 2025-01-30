@@ -1,6 +1,5 @@
-# osu! skins
-## Credits
-I made everything except for this:<br>
+# Credits
+I made everything except for this:
 - **cursor** (modified): [Incandescent Nebulae](https://osu.ppy.sh/community/forums/topics/537156)
 - **cursortrail** (remade): [Incandescent Nebulae](https://osu.ppy.sh/community/forums/topics/537156)
 - **extra hitsounds**: [Incandescent](https://osu.ppy.sh/community/forums/topics/537156)
