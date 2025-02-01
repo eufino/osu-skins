@@ -5,8 +5,7 @@
 ## Description
 Repository for my personal self made osu! skins.<br>
 They **only include @2x elements** because SD elements are bloat.<br>
-[Elements](source) by me are made in GIMP.
-[Extras and such](extra-elements) are here<br>
+[Elements](source) by me are made in GIMP. [Extras are here](extra-elements).<br>
 They are **made for lazer** and include a MainHUDComponents.json for hud elements. <br>
 Stable-only elements are not skinned and they will fall back on defaults.<br>
 I have made some very simple [stable elements](stable-elements) though (not included within the skins).<br>
