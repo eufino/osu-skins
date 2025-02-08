@@ -1,3 +1,3 @@
 skin.ini should have:
 HitCirclePrefix: default
-HitCircleOverlap: 180
+HitCircleOverlap: 20

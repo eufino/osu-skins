@@ -1,3 +1,3 @@
-skin.ini needs to have:
+skin.ini should have:
 HitCirclePrefix: default
 HitCircleOverlap: 180
