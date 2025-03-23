@@ -1,0 +1,5 @@
+{
+  "Name": "eufi focus",
+  "Creator": "eufi",
+  "InstantiationInfo": "osu.Game.Skinning.LegacySkin, osu.Game"
+}
