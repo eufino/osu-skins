@@ -1,0 +1,4 @@
+Next up i want to:
+Create my own cursor with inspiration from niko and incandescent cursor
+Find a nice font or create my own default numbers as alternative to dots
+
