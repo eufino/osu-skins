@@ -1,9 +1,8 @@
 # Documentation for the source [gimp xcf files](source)
 
-## With GIMP 3.0 we finally have non-destructive layer effects so i mostly won't need to use documentation like this anymore
+## With GIMP 3.0 we finally have non-destructive layer effects so documentation like this isn't as necessary anymore
 
-### Documentation in case i don't redo this stuff in GIMP 3.0
-GIMP 2.10.38 modifications:<br>
+### Documentation for stuff not in GIMP 3.0's layer effects
 Layers are given names noted with how they were modified:<br>
 "dsl15" means the "Drop Shadow (legacy)" filter was used with blur radius 15 (by default i set offsets x and y to 0 and opacity to 100)<br>
 "g1" means the original selection was **g**rown **1**px<br>

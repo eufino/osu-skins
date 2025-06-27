@@ -1,0 +1,4 @@
+orange as base
+pink: -60 hue
+green: +60 hue
+purle: -130 hue
