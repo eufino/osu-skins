@@ -21,6 +21,6 @@ Simple DT skin<br>
 Couldn't come up with a better name for this old version of the main<br>
 [directory](skins/eufi%20old)<br>
 [osk file](skins/eufi%20old.osk)<br>
-<img src="skins/eufi.png" width="640" height="360"><br><br>
+<img src="skins/eufi%20old.png" width="640" height="360"><br><br>
 
 Might put some old skins i made here as well eventually
