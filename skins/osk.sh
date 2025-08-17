@@ -1,6 +1,7 @@
 #!/bin/bash
 name=$1
 echo "Creating osk for: "$name
+#!/bin/bash
 if [ -f "$name.osk" ]; then
   rm "$name.osk"
   echo "Removed old osk"
